@@ -271,10 +271,17 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of serial port utility   :
 
-## Connection Established with Serial Port Utility and Cricuit Board:
-<img width="1920" height="1080" alt="Screenshot 2026-05-16 091614" src="https://github.com/user-attachments/assets/0947e7a0-09de-49dd-a1ad-a7edaec66d76" />
-<img width="1600" height="567" alt="IMG-20260516-WA0005 jpg" src="https://github.com/user-attachments/assets/f338c384-b009-4840-a1b1-9983c2d10163" />
-<img width="1600" height="739" alt="IMG-20260516-WA0004 jpg" src="https://github.com/user-attachments/assets/1bc15525-6fee-4bde-88f8-e7e5c202ff0b" />
+## Connection Established with Serial Port Utility and Cricuit Board
+
+<img width="1600" height="567" alt="IMG-20260516-WA0005 jpg" src="https://github.com/user-attachments/assets/5882da14-724f-48de-b7d5-4ba2056d2959" />
+
+## Interupption Given (hand infront of Sensor)
+
+<img width="1600" height="739" alt="IMG-20260516-WA0004 jpg" src="https://github.com/user-attachments/assets/44f2a3a1-cb62-4218-9617-6af694878f3c" />
+
+## After Interupption, Output displayed in Serial Port Utility
+
+<img width="1920" height="1080" alt="Screenshot 2026-05-16 091614" src="https://github.com/user-attachments/assets/5cbf78b4-b2dc-497f-b2e5-4697401f23f4" />
 
 ## Circuit board :
 
